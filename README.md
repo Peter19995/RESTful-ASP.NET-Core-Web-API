@@ -6,7 +6,7 @@ This project is based on the concepts and techniques covered in the [ASP.NET Cor
 
 ## Project Overview
 
-The main objective of this project is to showcase the implementation of a robust and scalable RESTful API using ASP.NET Core Web API. It covers various key aspects of API development, including request handling, data persistence, versioning, and documentation. The project incorporates the repository pattern along with Entity Framework for seamless interaction with a database.
+The main objective of this project is to showcase the implementation of a robust and scalable RESTful API using ASP.NET Core Web API. It covers various key aspects of API development, including request handling, data persistence, versioning, and documentation. The project incorporates the repository pattern along with Entity Framework for seamless interaction with a database. It also contains MVC project used to demonistrate on how to consume the API. 
 
 ## Features
 
