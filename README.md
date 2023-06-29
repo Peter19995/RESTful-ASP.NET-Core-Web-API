@@ -1,12 +1,12 @@
 # ASP.NET Core Web API Project
 
 This project is based on the concepts and techniques covered in the [ASP.NET Core Web API course](https://www.udemy.com/course/restful-api-with-asp-dot-net-core-web-api/?couponCode=DNM_MAY2023). It demonstrates the development of a RESTful web service using ASP.NET Core, focusing on building and consuming APIs effectively.
-<img width="488" alt="viall api" src="https://github.com/Peter19995/RESTful-ASP.NET-Core-Web-API/assets/55706749/88d796ca-4c44-4c11-86d0-57978e707e78">
+
 
 
 ## Project Overview
 
-The main objective of this project is to showcase the implementation of a robust and scalable RESTful API using ASP.NET Core Web API. It covers various key aspects of API development, including request handling, data persistence, versioning, and documentation. The project incorporates the repository pattern along with Entity Framework for seamless interaction with a database. It also contains MVC project used to demonistrate on how to consume the API. 
+The main objective of this project is to showcase the implementation of a robust and scalable RESTful API using ASP.NET Core Web API. It covers various key aspects of API development, including request handling, data persistence, versioning, and documentation. The project incorporates the repository pattern along with Entity Framework for seamless interaction with a database. It also contains an MVC project used to demonstrate on how to consume the API. 
 
 ## Features
 
@@ -22,7 +22,7 @@ The main objective of this project is to showcase the implementation of a robust
 To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Open the solution in visual Studio.
+2. Open the solution in Visual Studio.
 3. Ensure that you have the necessary dependencies and tools installed, such as the .NET Core SDK.
 4. Build the solution to restore the NuGet packages and compile the code.
 5. Configure the database connection string in the `appsettings.json` file to point to your desired database server.
